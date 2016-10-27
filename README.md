@@ -7,6 +7,7 @@
 
 **TUTORIALS**
 * [Learn JS (Ilya Kantor)](https://learn.javascript.ru/)
+* [Component case - Components, Theming and Flexbox (Hugo Giraudel)](https://www.sitepoint.com/sitepoints-tiles-a-case-study/)
 
 **TUTORIALS(VIDEO)**
 * [Webpack(Ilya Kantor)](https://www.youtube.com/watch?v=kLMjOd-x0aQ&list=PLDyvV36pndZHfBThhg4Z0822EEG9VGenn)
