@@ -17,3 +17,6 @@
 * [Web developers checklist](http://webdevchecklist.com/)
 
 **INTERVIEW**
+
+**PODCASTS**
+* [WSD(ru)](https://github.com/web-standards-ru/podcast)
