@@ -1,22 +1,7 @@
 # Sources
-**ARTICLES**
-* [Simple explanation of the react.js **state**](https://daveceddia.com/visual-guide-to-state-in-react/)
-* ["Изящная деградация" vs "постепенное улучшение"(Кристиан Хейльманн)](https://peredelka.wordpress.com/2011/07/30/graceful-degradation-vs-progressive-enhance/)
+**TO READ**
+* [Getting started with Webpack 2](https://blog.madewithenvy.com/getting-started-with-webpack-2-ed2b86c68783#.fscbq0lds)
+* [React newsletter issues 10](http://react.statuscode.com/issues/10?utm_source=javascriptweekly&utm_medium=email)
+* [Angular 2 Testing](https://auth0.com/blog/angular-2-testing-in-depth-services/?utm_source=javascriptweekly&utm_medium=email)
+* [Autocomplete widget with react](https://webapplog.com/autocomplete-react/?utm_source=javascriptweekly&utm_medium=email)
 
-**VIDEO**
-* [Asynchronous JS (Phillip Roberts)](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
-
-**TUTORIALS**
-* [Learn JS (Ilya Kantor)](https://learn.javascript.ru/)
-* [Component case - Components, Theming and Flexbox (Hugo Giraudel)](https://www.sitepoint.com/sitepoints-tiles-a-case-study/)
-
-**TUTORIALS(VIDEO)**
-* [Webpack(Ilya Kantor)](https://www.youtube.com/watch?v=kLMjOd-x0aQ&list=PLDyvV36pndZHfBThhg4Z0822EEG9VGenn)
-
-**SERVICES**
-* [Web developers checklist](http://webdevchecklist.com/)
-
-**INTERVIEW**
-
-**PODCASTS**
-* [WSD(ru)](https://github.com/web-standards-ru/podcast)
