@@ -6,3 +6,5 @@
 * [Autocomplete widget with react](https://webapplog.com/autocomplete-react/?utm_source=javascriptweekly&utm_medium=email)
 * [AngularJS examples](http://tutorialzine.com/2013/08/learn-angularjs-5-examples/)
 * [Carousel] (https://www.christianheilmann.com/2015/04/08/keeping-it-simple-coding-a-carousel/)
+* [Email_sending](http://www.inmotionhosting.com/support/email/send-email-from-a-page/how-to-set-up-formmail)
+
