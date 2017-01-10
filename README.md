@@ -12,6 +12,7 @@
 
 **TUTORIALS(VIDEO)**
 * [Webpack(Ilya Kantor)](https://www.youtube.com/watch?v=kLMjOd-x0aQ&list=PLDyvV36pndZHfBThhg4Z0822EEG9VGenn)
+* [Patterns in JS(Jeremy McPeak)](https://www.youtube.com/watch?v=mG20htjwoBY&list=PLqEsQbKGIlmrpvQcnidKsVWSCV6vjAHN9)
 
 **SERVICES**
 * [Web developers checklist](http://webdevchecklist.com/)
