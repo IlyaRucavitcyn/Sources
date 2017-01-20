@@ -11,6 +11,7 @@
 * [Learn JS (Ilya Kantor)](https://learn.javascript.ru/)
 * [Component case - Components, Theming and Flexbox (Hugo Giraudel)](https://www.sitepoint.com/sitepoints-tiles-a-case-study/)
 * [Mocking Dependencies in AngularJS Tests](https://www.sitepoint.com/mocking-dependencies-angularjs-tests/)
+* [Understanding flexbox (freecodecamp)](https://medium.freecodecamp.com/understanding-flexbox-everything-you-need-to-know-b4013d4dc9af#.zde855pql)
 
 **TUTORIALS(VIDEO)**
 * [Webpack(Ilya Kantor)](https://www.youtube.com/watch?v=kLMjOd-x0aQ&list=PLDyvV36pndZHfBThhg4Z0822EEG9VGenn)
