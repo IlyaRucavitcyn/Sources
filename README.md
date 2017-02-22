@@ -6,3 +6,4 @@
 * [Data structures](https://www.youtube.com/watch?v=PjQdvpWfCmE&list=PL5WscOMsDWoOENkhLJMESVGXHCOtRmKpf&index=11)
 * [How to ask questions](https://jvns.ca/blog/good-questions/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav)
 * [Webpack: code splitting](http://jonathancreamer.com/advanced-webpack-part-2-code-splitting/)
+* [FileSystem API](https://www.html5rocks.com/en/tutorials/file/filesystem/)
