@@ -14,6 +14,7 @@
 * [Understanding flexbox (freecodecamp)](https://medium.freecodecamp.com/understanding-flexbox-everything-you-need-to-know-b4013d4dc9af#.zde855pql)
 * [Different shapes with CSS](http://1stwebdesigner.com/css-shapes/)
 * [Reading uploaded files via FileReader API](http://blog.teamtreehouse.com/reading-files-using-the-html5-filereader-api)
+* [How browser works](http://taligarsiel.com/Projects/howbrowserswork1.htm)
 
 **TUTORIALS(VIDEO)**
 * [Webpack(Ilya Kantor)](https://www.youtube.com/watch?v=kLMjOd-x0aQ&list=PLDyvV36pndZHfBThhg4Z0822EEG9VGenn)
@@ -24,6 +25,7 @@
 
 **INTERVIEW**
 * [Mastering JS interview: what is a closure?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36#.c3osk1pr8)
+* [Essential JavaScript Interview Questions](https://www.toptal.com/javascript/interview-questions)
 
 **PODCASTS**
 * [WSD(ru)](https://github.com/web-standards-ru/podcast)
