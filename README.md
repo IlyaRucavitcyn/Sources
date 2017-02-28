@@ -8,3 +8,4 @@
 * [Webpack: code splitting](http://jonathancreamer.com/advanced-webpack-part-2-code-splitting/)
 * [FileSystem API](https://www.html5rocks.com/en/tutorials/file/filesystem/)
 * [Structure and Interpretation of Computer Programs](http://newstar.rinet.ru/~goga/sicp/sicp.pdf)
+* [UML 2.0](https://www.utdallas.edu/~chung/Fujitsu/UML_2.0/Rumbaugh--UML_2.0_Reference_CD.pdf)
