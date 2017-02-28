@@ -7,3 +7,4 @@
 * [How to ask questions](https://jvns.ca/blog/good-questions/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav)
 * [Webpack: code splitting](http://jonathancreamer.com/advanced-webpack-part-2-code-splitting/)
 * [FileSystem API](https://www.html5rocks.com/en/tutorials/file/filesystem/)
+* [Structure and Interpretation of Computer Programs](http://newstar.rinet.ru/~goga/sicp/sicp.pdf)
