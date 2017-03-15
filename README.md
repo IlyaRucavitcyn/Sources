@@ -10,3 +10,4 @@
 * [Structure and Interpretation of Computer Programs](http://newstar.rinet.ru/~goga/sicp/sicp.pdf)
 * [UML 2.0](https://www.utdallas.edu/~chung/Fujitsu/UML_2.0/Rumbaugh--UML_2.0_Reference_CD.pdf)
 * [React mini patterns](https://hackernoon.com/10-react-mini-patterns-c1da92f068c5#.k448vuo8w)
+* [Nodeschool](https://nodeschool.io/ru/)
