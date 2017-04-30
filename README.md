@@ -12,4 +12,4 @@
 * [React mini patterns](https://hackernoon.com/10-react-mini-patterns-c1da92f068c5#.k448vuo8w)
 * [Nodeschool](https://nodeschool.io/ru/)
 * [Horizontal line with titles](http://frontblog.ru/verstka-zagolovoka-s-liniyami-po-bokam-na-css.html)
-* [Online coding] (https://github.com/fatiherikli/fil)
+* [Online coding](https://github.com/fatiherikli/fil)
