@@ -16,6 +16,7 @@
 * [Reading uploaded files via FileReader API](http://blog.teamtreehouse.com/reading-files-using-the-html5-filereader-api)
 * [How browser works](http://taligarsiel.com/Projects/howbrowserswork1.htm)
 * [Photoshop tips](http://rafaltomal.com/a-web-developerss-guide-to-photoshop/)
+* [Meta Tags guide](https://www.sitepoint.com/meta-tags-html-basics-best-practices/)
 
 **TUTORIALS(VIDEO)**
 * [Webpack(Ilya Kantor)](https://www.youtube.com/watch?v=kLMjOd-x0aQ&list=PLDyvV36pndZHfBThhg4Z0822EEG9VGenn)
