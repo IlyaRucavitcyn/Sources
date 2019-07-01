@@ -2,6 +2,7 @@
 **ARTICLES**
 * [Simple explanation of the react.js **state**](https://daveceddia.com/visual-guide-to-state-in-react/)
 * ["Изящная деградация" vs "постепенное улучшение"(Кристиан Хейльманн)](https://peredelka.wordpress.com/2011/07/30/graceful-degradation-vs-progressive-enhance/)
+* [RORO pattern when creating functions](https://www.freecodecamp.org/news/elegant-patterns-in-modern-javascript-roro-be01e7669cbd/)
 
 
 **VIDEO**
